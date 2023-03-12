@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try Catch Finally ve Mantıksal Hatalar", "Try Catch Finally ve Mantıksal Hatalar\Try Catch Finally ve Mantıksal Hatalar.csproj", "{C0E37A7B-D798-47B3-9B61-46ADA4AB2A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E37A7B-D798-47B3-9B61-46ADA4AB2A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E37A7B-D798-47B3-9B61-46ADA4AB2A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E37A7B-D798-47B3-9B61-46ADA4AB2A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E37A7B-D798-47B3-9B61-46ADA4AB2A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F506947-EA05-440E-A232-04D46E5E5AD4}
+	EndGlobalSection
+EndGlobal
